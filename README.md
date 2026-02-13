@@ -8,6 +8,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2412.09623-b31b1b.svg)](https://arxiv.org/pdf/2412.09623)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue.svg)](https://lwq20020127.github.io/OmniDrag/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lwq20020127.OmniDrag)
+<a href="https://huggingface.co/datasets/VegQi/Move360">
+    <img 
+        src="https://img.shields.io/badge/Move360-yellow?logo=huggingface&logoColor=yellow" 
+        alt="Move360 dataset"
+    />
+</a>
 
 [Weiqi Li](https://scholar.google.com/citations?user=SIkQdEsAAAAJ), Shijie Zhao, Chong Mou, Xuhan Sheng, Zhenyu Zhang, Qian Wang, Junlin Li, Li Zhang and [Jian Zhang](https://jianzhang.tech/)
 
